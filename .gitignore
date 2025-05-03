@@ -1,0 +1,18 @@
+
+# macOS system files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Zip archives and local bundles
+*.zip
+
+# Node/npm files (in case future dev expands into React or JS tooling)
+node_modules/
+dist/
+build/
+
+# VS Code settings (if someone clones and uses VS Code)
+.vscode/
